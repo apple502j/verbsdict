@@ -72,7 +72,7 @@ verbsDict = {
 "come"	:	"^c(omes?|ame)$",
 "cut"	:	"^cuts?$",
 "do"	:	"^d(o(|es|ne)|id)$",
-"read"	:	"^re(ads?|d)$",
+"read"	:	"^reads?$",
 "drink"	:	"^dr(inks?|(a|u)nk)$",
 "feel"	:	"^fe(els?|lt)$",
 "eat"	:	"^(eat(|s|en)|ate)$",
